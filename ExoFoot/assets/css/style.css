@@ -1,0 +1,79 @@
+body {
+    background-color: #E0E0E0;
+}
+
+.text-blue {
+    color: #091C3E;
+}
+
+.bg-dark-blue {
+    background-color: #091C3E;
+}
+
+.bg-light-grey {
+    background-color: #B3B3B3;
+}
+
+.bg-grey {
+    background-color: #808080;
+}
+
+.bg-grey-top {
+    background-color: #E6E6E6;
+}
+
+td, th, tr {
+    border-bottom: solid 1px #DBDBDB;
+}
+
+.grey-circle {
+    display: inline-block;
+    margin-left: 1rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    background: #ABABAB;
+}
+
+.grey-circle-right {
+    display: inline-block;
+    margin-right: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    background: #ABABAB;
+}
+
+.green-circle {
+    display: inline-block;
+    margin-right: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    background: #21CD35;
+}
+
+.red-circle {
+    display: inline-block;
+    margin-right: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    background: #EC2024;
+}
+
+.green-triangle {
+    display: inline-block;
+    margin-left: 1rem;
+    border-left: 0.6rem solid transparent;
+    border-right: 0.6rem solid transparent;
+    border-bottom: 1rem solid #21CD35;
+}
+
+.red-triangle {
+    display: inline-block;
+    margin-left: 1rem;
+    border-left: 0.6rem solid transparent;
+    border-right: 0.6rem solid transparent;
+    border-top: 1rem solid #EC2024;
+}
